@@ -100,3 +100,4 @@ if __name__ == "__main__":
             speak("According to wikipedia")
             speak(results)
             print(results)
+            print("Arsh is dumb")
